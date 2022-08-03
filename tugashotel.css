@@ -1,0 +1,38 @@
+body{
+    font-family: Arial;
+    Margin: 0px;
+}
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    width: 100%;
+    background-color: rgb(83, 83, 228);
+}
+li a {
+    display: block;
+    padding: 25px;
+    color: rgb(10, 9, 9);
+    float: right;
+    border-left: 1px solid rgb(14, 12, 12);
+}
+li h2 {
+    padding-left: 30x;
+    padding-right: 30px;
+    color: rgb(12, 11, 11);
+}
+.active {
+    background-color: rgb(235, 144, 144);
+}
+/* Header/Logo Title */
+.header {
+    padding: 100px;
+    text-align: center;
+    background-color: rgb(133, 124, 141);
+}
+.content {
+    padding: 20px;
+    background-color: white;
+    text-align: left;
+}
